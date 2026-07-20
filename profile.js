@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Pracheeta Swain",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a high school student from New Jersey. My scientific interests are to learn more about cell biology. I am excited for this program to learn more about how to turn real world data into models using R and Python.",
 
   /*
   Optional photo:
@@ -53,8 +53,8 @@ const studentProfile = {
   RPubs page, GitHub repository, PDF, or other final project page.
   */
   finalProject: {
-    title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    title: "Health Campaign",
+    description: "My final project is a health campaign which is a scientific poster including information on screening participation. ",
     url: ""
   },
 
