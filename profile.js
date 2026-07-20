@@ -13,7 +13,7 @@ If you do not have a link yet, leave that section as an empty list: []
 const studentProfile = {
   name: "Pracheeta Swain",
 
-  tagline: "DREAM-High Scholar | Computational Biology Portfolio",
+  tagline: "DREAM-High Scholar | Aspiring Data Analyst & Finance Aspirant",
 
   bio: "I am a high school student from New Jersey. My scientific interests are to learn more about cell biology. I am excited for this program to learn more about how to turn real world data into models using R and Python.",
 
@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "pracheetaswain12@gmail.com",
 
   /*
   RPubs activities:
