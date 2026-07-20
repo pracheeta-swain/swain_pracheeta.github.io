@@ -13,9 +13,9 @@ If you do not have a link yet, leave that section as an empty list: []
 const studentProfile = {
   name: "Pracheeta Swain",
 
-  tagline: "DREAM-High Scholar | Aspiring Data Analyst & Finance Aspirant",
+  tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "I am a high school student from New Jersey. My scientific interests are to learn more about cell biology. I am excited for this program to learn more about how to turn real world data into models using R and Python.",
+  bio: "I am a high school student from New Jersey. My scientific interests are to learn more about cell biology. I am excited for this program to learn more about how to turn real world data into models using R and Python. I few of my interests are karate, swimming, and baking!",
 
   /*
   Optional photo:
@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "pracheetaswain12@gmail.com",
+  contact: "Email: pracheetaswain12@gmail.com",
 
   /*
   RPubs activities:
@@ -53,7 +53,7 @@ const studentProfile = {
   RPubs page, GitHub repository, PDF, or other final project page.
   */
   finalProject: {
-    title: "Health Campaign",
+    title: "Nessecity of screening participation Health Campaign",
     description: "My final project is a health campaign which is a scientific poster including information on screening participation. ",
     url: ""
   },
