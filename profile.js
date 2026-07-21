@@ -54,7 +54,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "Nessecity of screening participation Health Campaign",
-    description: "My final project is a health campaign which is a scientific poster including information on screening participation. ",
+    description: "My final project is a health campaign promoted on a informational scientific poster on Leukemia awareness. ",
     url: ""
   },
 
