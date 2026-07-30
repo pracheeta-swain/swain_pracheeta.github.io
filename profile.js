@@ -12,8 +12,8 @@ const studentProfile = {
     { title: "Breast Cancer Cell Lines and Differential Gene Expression", url: "https://rpubs.com/Pracheeta-s/1450113" }
   ],
   finalProject: {
-    title: "Necessity of screening participation Health Campaign",
-    description: "My final project is a health campaign promoted on an informational scientific poster on Leukemia awareness.",
+    title: "Leukemia Awareness Campaign",
+    description: "My final project is a health campaign promoted on an informational scientific poster about Leukemia awareness. It'll include common symptoms, what to do next, when to be concerned, and a QR code for guidance and and more information.",
     url: ""
   },
   github: [
