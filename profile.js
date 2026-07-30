@@ -30,7 +30,7 @@ const studentProfile = {
     { title: "Finding Patterns with Heatmaps in Python", url: "https://rpubs.com/Pracheeta-s/1448173" },
     { title: "TCGA Patient Data", url: "https://rpubs.com/Pracheeta-s/1448397" },
     { title: "Heat Maps with TCGA Patient Sample mRNA", url: "https://rpubs.com/Pracheeta-s/1448787" },
-    { title: "Breast Cancer Cell Lines and Differential Gene Expression", url: "https://rpubs.com/Pracheeta-s/1448787" }
+    { title: "Breast Cancer Cell Lines and Differential Gene Expression", url: "https://rpubs.com/Pracheeta-s/1450113" }
   ],
   
   /* 
