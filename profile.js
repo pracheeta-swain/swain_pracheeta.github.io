@@ -10,7 +10,7 @@ const studentProfile = {
     { title: "TCGA Patient Data", url: "https://rpubs.com/Pracheeta-s/1448397" },
     { title: "Heat Maps with TCGA Patient Sample mRNA", url: "https://rpubs.com/Pracheeta-s/1448787" },
     { title: "Breast Cancer Cell Lines and Differential Gene Expression", url: "https://rpubs.com/Pracheeta-s/1450113" }
-    { title: "Predictive Modeling for Cancer Prognosis", url: "https://rpubs.com/Pracheeta-s/1451294" }
+    { title: "Predictive Modeling for Cancer Prognosis", url: "https://rpubs.com/Pracheeta-s/1451294" },
   ],
   finalProject: {
     title: "Leukemia Awareness Campaign",
